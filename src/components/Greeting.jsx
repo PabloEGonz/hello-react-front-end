@@ -9,10 +9,7 @@ const Greeting = () => {
     }, []);
 
     return (
-        <>
         <h1>{text}</h1>
-        <h2>testing</h2>
-        </>
     )
 }
 
